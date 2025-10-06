@@ -7,9 +7,9 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Proje Adı                           | Proje Durumu                                 |
-| :-:                                 | :-:                                          |
-| [Mobile][mobile_piscine_tree]       | PISCINE[mobile_piscine_tree]  |
+| Proje Adı                         | Proje Durumu                      |
+| :-:                               | :-:                               |
+| [Mobile][mobile_piscine_tree]     | [PISCINE][mobile_piscine_tree]    |
 
 </td></tr>
 
