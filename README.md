@@ -9,7 +9,7 @@
 
 | Proje Adı                         | Proje Durumu                      |
 | :-:                               | :-:                               |
-| [Mobile][mobile_piscine_tree]     | [PISCINE]                         |
+| [Mobile][mobile_piscine_tree]     |  PISCINE                          |
 
 </td></tr>
 
