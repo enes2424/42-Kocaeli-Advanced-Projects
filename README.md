@@ -10,9 +10,10 @@
 | Proje Adı                         | Proje Durumu                      |
 | :-:                               | :-:                               |
 | [Mobile][mobile_piscine_tree]     |  PISCINE                          |
+| [Ocaml][ocaml_piscine_tree]       |  PISCINE                          |
 
 </td></tr>
 
 [mobile_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Mobile-Piscine
-
+[ocaml_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Ocaml-Piscine
 </table>
