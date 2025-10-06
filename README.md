@@ -9,11 +9,10 @@
 
 | Proje Adı                           | Proje Durumu                                 |
 | :-:                                 | :-:                                          |
-| [Mobile][mobile_piscine_tree]       | [mobile_piscine_badge][mobile_piscine_tree]  |
+| [Mobile][mobile_piscine_tree]       | PISCINE[mobile_piscine_tree]  |
 
 </td></tr>
 
 [mobile_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Mobile-Piscine
-[mobile_piscine_badge]: PISCINE
 
 </table>
