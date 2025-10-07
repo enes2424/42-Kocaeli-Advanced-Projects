@@ -12,8 +12,8 @@
 | [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]    |
 | [turing][turing_tree]             | [![turing_badge]][turing_tree]    |
 | [malloc][malloc_tree]             | Waiting...                        |
-| [mobile][mobile_piscine_tree] 	| ![piscine_badge_blue] 			|
-| [ocaml][ocaml_piscine_tree]   	| ![piscine_badge_purple] 			|
+| [mobile][mobile_piscine_tree] 	| ![mobile_badge] 			        |
+| [ocaml][ocaml_piscine_tree]   	| ![ocaml_badge] 			        |
 
 </td></tr>
 
@@ -24,7 +24,8 @@
 [malloc_tree]: https://github.com/enes2424/42-Kocaeli-Advanced-Projects/tree/42-Kocaeli-Malloc
 [malloc_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [mobile_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Mobile-Piscine
+[mobile_badge]: https://img.shields.io/badge/PISCINE-3498db?style=for-the-badge&logoColor=white
 [ocaml_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Ocaml-Piscine
-[piscine_badge_blue]: https://img.shields.io/badge/PISCINE-3498db?style=for-the-badge&logoColor=white
-[piscine_badge_purple]: https://img.shields.io/badge/PISCINE-9b59b6?style=for-the-badge&logoColor=white
+[ocaml_badge]: https://img.shields.io/badge/PISCINE-9b59b6?style=for-the-badge&logoColor=white
+
 </table>
