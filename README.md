@@ -7,13 +7,13 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Proje Adı                         | Proje Durumu                      |
-| :-:                               | :-:                               |
-| [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]    |
-| [turing][turing_tree]             | [![turing_badge]][turing_tree]    |
-| [malloc][malloc_tree]             | ![waiting_badge]                  |
-| [mobile][mobile_piscine_tree] 	| ![mobile_badge] 			        |
-| [ocaml][ocaml_piscine_tree]   	| ![ocaml_badge] 			        |
+| Proje Adı                         | Proje Durumu                           |
+| :-:                               | :-:                                    |
+| [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]         |
+| [turing][turing_tree]             | [![turing_badge]][turing_tree]         |
+| [malloc][malloc_tree]             | ![waiting_badge]                       |
+| [mobile][mobile_piscine_tree] 	| [![mobile_badge]][mobile_piscine_tree] |
+| [ocaml][ocaml_piscine_tree]   	| [![ocaml_badge]][ocaml_piscine_tree]   |
 
 </td></tr>
 
