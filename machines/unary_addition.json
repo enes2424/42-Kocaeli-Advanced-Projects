@@ -1,0 +1,21 @@
+{
+    "name": "unary_addition",
+    "alphabet": ["1", "+", ".", "="],
+    "blank": ".",
+    "states": ["controller", "convert_plus", "end", "ACCEPT"],
+    "initial": "controller",
+    "finals": ["ACCEPT"],
+    "transitions": {
+        "controller": [
+            {"read": "1", "to_state": "controller", "write": "1", "action": "RIGHT"},
+            {"read": "+", "to_state": "convert_plus", "write": "1", "action": "RIGHT"}
+        ],
+        "convert_plus": [
+            {"read": "1", "to_state": "convert_plus", "write": "1", "action": "RIGHT"},
+            {"read": "=", "to_state": "end", "write": ".", "action": "LEFT"}
+        ],
+        "end": [
+            {"read": "1", "to_state": "ACCEPT", "write": ".", "action": "LEFT"}
+        ]
+    }
+}
