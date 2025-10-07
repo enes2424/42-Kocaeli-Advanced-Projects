@@ -10,8 +10,8 @@
 | Proje Adı                         | Proje Durumu                      |
 | :-:                               | :-:                               |
 | [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]    |
-| [Mobile][mobile_piscine_tree]     |  PISCINE                          |
-| [Ocaml][ocaml_piscine_tree]       |  PISCINE                          |
+| [mobile][mobile_piscine_tree]     |  PISCINE                          |
+| [ocaml][ocaml_piscine_tree]       |  PISCINE                          |
 
 </td></tr>
 
