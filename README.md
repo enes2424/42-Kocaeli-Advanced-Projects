@@ -12,8 +12,8 @@
 | [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]    |
 | [turing][turing_tree]             | [![turing_badge]][turing_tree]    |
 | [malloc][malloc_tree]             | Waiting...                        |
-| [mobile][mobile_piscine_tree]     | PISCINE                           |
-| [ocaml][ocaml_piscine_tree]       | PISCINE                           |
+| [mobile][mobile_piscine_tree]     | <span style="background-color:#3498db; color:white; padding:3px 8px; border-radius:6px;">PISCINE</span> |
+| [ocaml][ocaml_piscine_tree]       | <span style="background-color:#9b59b6; color:white; padding:3px 8px; border-radius:6px;">PISCINE</span> |
 
 </td></tr>
 
