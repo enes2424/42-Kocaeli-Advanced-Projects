@@ -11,7 +11,7 @@
 | :-:                               | :-:                                    |
 | [libasm][libasm_tree]             | [![libasm_badge]][libasm_tree]         |
 | [turing][turing_tree]             | [![turing_badge]][turing_tree]         |
-| [malloc][malloc_tree]             | ![waiting_badge]                       |
+| [malloc][malloc_tree]             | [![waiting_badge]][malloc_tree]        |
 | [mobile][mobile_piscine_tree] 	| [![mobile_badge]][mobile_piscine_tree] |
 | [ocaml][ocaml_piscine_tree]   	| [![ocaml_badge]][ocaml_piscine_tree]   |
 
