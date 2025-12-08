@@ -42,7 +42,7 @@ static void option_doesnt_allow_argument_error(char *option)
 
 static void ambiguous_option_error()
 {
-	fprintf(stderr, "ft_ping: option '--=' is ambiguous; possibilities: '--preload'\n");
+	fprintf(stderr, "ft_ping: option '--=' is ambiguous; possibilities: '--count' '--interval' '--timeout' '--preload' '--size'\n");
 	suggest_help_or_usage_option();
 }
 
