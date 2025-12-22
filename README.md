@@ -16,7 +16,7 @@
 | [hangouts][hangouts_tree]           | [![hangouts_badge]][hangouts_tree]           |
 | [matrix][matrix_tree]               | [![matrix_badge]][matrix_tree]               |
 | [ping][ping_tree]                   | [![ping_badge]][ping_tree]                   |
-| [computorv1_badge][computorv1_tree] | [![computorv1_badge]][computorv1_tree]       |
+| [computorv1][computorv1_tree]       | [![computorv1_badge]][computorv1_tree]       |
 | [mobile][mobile_piscine_tree] 	  | [![mobile_badge]][mobile_piscine_tree]       |
 | [ocaml][ocaml_piscine_tree]   	  | [![ocaml_badge]][ocaml_piscine_tree]         |
 | [django][django_piscine_tree]   	  | [![django_badge]][django_piscine_tree]       |
