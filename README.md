@@ -15,7 +15,8 @@
 | [avaj_launcher][avaj_launcher_tree] | [![avaj_launcher_badge]][avaj_launcher_tree] |
 | [hangouts][hangouts_tree]           | [![hangouts_badge]][hangouts_tree]           |
 | [matrix][matrix_tree]               | [![matrix_badge]][matrix_tree]               |
-| [ping][ping_tree]                   | [![ping_badge]][ping_tree]               |
+| [ping][ping_tree]                   | [![ping_badge]][ping_tree]                   |
+| [computorv1_badge][computorv1_tree] | [![computorv1_badge]][computorv1_tree]       |
 | [mobile][mobile_piscine_tree] 	  | [![mobile_badge]][mobile_piscine_tree]       |
 | [ocaml][ocaml_piscine_tree]   	  | [![ocaml_badge]][ocaml_piscine_tree]         |
 | [django][django_piscine_tree]   	  | [![django_badge]][django_piscine_tree]       |
@@ -36,6 +37,8 @@
 [matrix_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [ping_tree]: https://github.com/enes2424/42-Kocaeli-Advanced-Projects/tree/42-Kocaeli-Ping
 [ping_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[computorv1_tree]: https://github.com/enes2424/42-Kocaeli-Advanced-Projects/tree/42-Kocaeli-ComputorV1
+[computorv1_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20125%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [mobile_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Mobile-Piscine
 [mobile_badge]: https://img.shields.io/badge/PISCINE-3498db?style=for-the-badge&logoColor=white
 [ocaml_piscine_tree]: https://github.com/enes2424/42-Kocaeli-Ocaml-Piscine
