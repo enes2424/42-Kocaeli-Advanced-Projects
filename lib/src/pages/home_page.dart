@@ -248,8 +248,12 @@ class HomePageState extends State<HomePage> {
                   )
                 : ListView.builder(
                     padding: const EdgeInsets.all(16),
-                    itemCount: Contact.count,
+                    itemCount: Contact.count + 1,
                     itemBuilder: (context, index) {
+                      if (index == Contact.count) {
+                        return SizedBox(height: 120);
+                      }
+
                       final isExpanded = _expandedIndex == index;
                       return KeyedSubtree(
                         key: ValueKey('tile_${index}_$isExpanded'),
